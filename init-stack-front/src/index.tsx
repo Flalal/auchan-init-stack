@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import HomePage from './component/HomePage'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<HomePage />, document.getElementById('root'));

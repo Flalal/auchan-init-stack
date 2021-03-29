@@ -19,7 +19,7 @@
     "typescript": "3.9.9"
   },
   "scripts": {
-    "serve": "react-scripts start",
+    "start": "react-scripts start",
     "lint": "eslint './src/**/*.{ts,tsx}'",
     "build": "react-scripts build",
     "test": "react-scripts test",
